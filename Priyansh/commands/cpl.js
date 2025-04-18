@@ -1,10 +1,10 @@
 module.exports.config = {
-	name: "cpl",
+	name: "ecouple",
 	version: "3.1.1",
 	hasPermssion: 0,
 	credits: "𝐏𝐫𝐢𝐧𝐜𝐞 𝐃𝐢𝐥𝐬𝐡𝐚𝐝",
 	description: "Comment on the board",
-	commandCategory: "Memes",
+	commandCategory: "Memes1",
 	usages: "[text]",
 	cooldowns: 5,
 	dependencies: {
